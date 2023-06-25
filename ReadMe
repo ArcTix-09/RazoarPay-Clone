@@ -6,9 +6,10 @@ This is a clone of the Razorpay payment gateway, built using HTML and Tailwind C
 
 **Note: This project requires Node.js and the necessary modules to run.**
 
-If you encounter the error message "Node module not found" or any related issues, it means that the required Node modules are missing. Follow the instructions below to resolve this:
+If you encounter the error message "Node module not found" or any related issues, it means that the required Node modules are missing. 
+Follow the instructions below to resolve this:
 
-1. Make sure you have Node.js installed on your machine. You can download it from [https://nodejs.org](https://nodejs.org) and follow the installation instructions for your operating system.
+1. Make sure you have Node.js installed on your machine.
 
 2. Once Node.js is installed, open a command prompt or terminal and navigate to the project folder.
 
