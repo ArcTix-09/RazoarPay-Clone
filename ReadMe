@@ -17,8 +17,6 @@ If you encounter the error message "Node module not found" or any related issues
 ```bash
 npm install
 
-
-
 After the installation is complete, run the project using the following command:
 
 npm start
